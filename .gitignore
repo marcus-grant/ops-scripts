@@ -1,2 +1,13 @@
+# SECRETS VERY IMPORTANT
 *secret*
+
+# Virtual environments
+.venv
+
+# Python stuff
+*/__pycache__
+*.cache
+*.pyc
+
+# OS stuff
 .DS_Store
